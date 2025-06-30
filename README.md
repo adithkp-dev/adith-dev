@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Adith</h1>
-<h3 align="center">A passionate Devops engineer from India</h3>
+###  I'm  Adith K P 👋
+
+## DevOps Engineer 
+
+Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong background in cloud technologies and automation. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects, contributions, and open-source work.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithkp-dev&label=Profile%20views&color=0e75b6&style=flat" alt="adithkp-dev" /> </p>
 <h3 align="left">Connect with me:</h3>
